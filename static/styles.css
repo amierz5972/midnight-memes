@@ -1,0 +1,62 @@
+.comic { font-family: 'Comic Sans MS', 'Comic Sans'; }
+.other { font-family: Courier, }
+
+.box{
+    background-image: url(../static/actualindexbg.png);
+    padding: 100px;
+    margin: 100px;
+
+    background-size: cover;
+
+}
+
+
+.box1 {
+    background-image: url(../static/final2bg.png);
+    padding: 100px;
+    margin: 100px;
+
+    background-size: cover;
+}
+
+.box2 {
+    background-image: url(../static/final23.jpeg);
+    padding: 100px;
+    margin: 100px;
+
+    background-size: cover;
+}
+
+
+.box3 {
+    background-image: url(../static/final4bg.png);
+    padding: 100px;
+    margin: 100px;
+
+    background-size: cover;
+}
+
+.box4 {
+    background-image: url(../static/indexbg.png);
+    padding: 100px;
+    margin: 100px;
+
+    background-size: cover;
+}
+
+
+.box5 {
+    background-image: url(../static/jumpscare.gif);
+    padding: 100px;
+    margin: 100px;
+
+    background-size: cover;
+}
+
+.box6 {
+    background-image: url(../static/final1bg.png);
+    padding: 100px;
+    margin: 100px;
+
+    background-size: cover;
+}
